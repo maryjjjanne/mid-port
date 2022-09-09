@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "particlesjs": "^2.2.3"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
